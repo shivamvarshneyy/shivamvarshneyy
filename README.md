@@ -108,20 +108,23 @@
 
 ### 📫 Connect with Me
 
+### 📫 Connect with Me  
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/shivam-varshney-38221916b" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/shivam-varshney-38221916b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shivamvarshney1506@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" height="30" width="30" />
+  <a href="mailto:shivamvarshney1506@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/shivamvarshneyy">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="30" />
+  <a href="https://github.com/shivamvarshneyy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://shivamvarshney.netlify.app/" target="blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-portfolio-website-for-community-and-social-media-logo-shadow-tal-revivo.png" height="30" width="30"/>
+  <a href="https://shivamvarshney.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
 </p>
+
 
 ---
 
