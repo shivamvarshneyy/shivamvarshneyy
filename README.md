@@ -77,6 +77,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
+
 ---
 
 <!-- Education -->
@@ -107,9 +108,7 @@
 <!-- Connect with Me -->
 
 ### 📫 Connect with Me
-
-### 📫 Connect with Me  
-
+ 
 <p align="left">
   <a href="https://www.linkedin.com/in/shivam-varshney-38221916b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
