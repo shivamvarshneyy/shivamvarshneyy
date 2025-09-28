@@ -37,53 +37,46 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
 
-**Backend & APIs:**
-
+**Backend & APIs:**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-rest-api-is-a-software-architecture-style-for-designing-network-applications-logo-shadow-tal-revivo.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-prettycons-lineal-prettycons/50/000000/external-security-essentials-prettycons-lineal-prettycons.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/json--v1.png" width="40" height="40"/> <!-- For REST APIs -->
 </p>
 
-**Frontend:**
-
+**Frontend:**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/material-ui.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/>
 </p>
 
-**Databases & Storage:**
-
+**Databases & Storage:**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-redis-coding-and-development-soft-fill-soft-fill-juicy-fish.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
 </p>
 
-**Messaging/Streaming:**
-
+**Messaging/Streaming:**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
 </p>
 
-**Testing & QA:**
-
+**Testing & QA:**  
 <p>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-testing-ux-and-ui-flatart-icons-outline-flatarticons.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 </p>
 
-**Dev Tools:**
-
+**Dev Tools:**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/postman-api.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
-
 ---
 
 <!-- Education -->
