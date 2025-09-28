@@ -18,7 +18,6 @@
 * 🌱 Currently learning **Full Stack Web Development (Spring Boot + React.js)**
 * 💻 Practicing **Data Structures & Algorithms** for interview prep
 * 🔭 Exploring **Cloud Fundamentals, System Design, and Advanced Backend Concepts**
-* 🎯 Goal: Become an **SDE at top tech companies**
 * ⚡ Fun fact: I enjoy optimizing systems as much as building them
 
 ---
