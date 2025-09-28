@@ -1,64 +1,88 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Shivam Varshney</h1>
-<h3 align="center">A passionate developer on the journey from DSA to Development</h3>
 
-<!-- Profile Views / Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamvarshneyy&label=Profile%20views&color=0e75b6&style=flat" alt="shivam" />
-</p>
 
----
 
-<!-- About Me Section -->
-### 👨‍💻 About Me
+# 👋 Hi, I'm Shivam Varshney
 
-- 🔭 I’m currently working on **Data Structures & Algorithms**
-- 🌱 I’m learning **Full Stack Web Development**
-- 📫 How to reach me: `shivamvarshney1506@gmail.com`
-- ⚡ Fun fact: I love breaking big problems into smaller ones
+🚀 Aspiring Software Engineer | Full-Stack Developer | Problem Solver
+
+I’m a **Computer Science (AI & ML) undergraduate** with hands-on experience in **Java, Spring Boot, React.js, and system design**. I enjoy solving real-world problems with clean, scalable code and have worked on projects ranging from secure backends to interactive web apps.
 
 ---
 
-<!-- Languages & Tools -->
-### 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</p>
+**Languages:** C++, Java, HTML5, CSS3, JavaScript
+**Backend:** Spring Boot, Spring Security, OAuth 2.0, JWT, REST APIs, Swagger
+**Frontend:** React.js, Material UI
+**Databases & Storage:** MySQL, MongoDB (Local & Atlas), Redis (Basic)
+**Messaging/Streaming:** Apache Kafka (Basic)
+**Testing:** JUnit
+**Dev Tools:** IntelliJ IDEA, VS Code, Postman, Swagger UI, Maven, Git/GitHub
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamvarshneyy&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamvarshneyy&theme=tokyonight" width="47%" />
-</p>
+### 💻 Accenture (Aug 2025 – Present)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvarshneyy&layout=compact&theme=tokyonight" width="47%" />
-</p>
+*Associate Software Engineer Trainee*
 
----
+* Training in **Java, SQL, Spring Boot, React.js, Cloud Fundamentals**.
+* Exposure to **Agile/Scrum methodologies** and industry-standard practices.
+* Gaining hands-on experience in **full-stack development & REST APIs**.
 
-<!-- Connect with Me -->
-### 📫 Connect with Me
+### 🧪 Nvidia Innovation & Research Centre (Nov 2023 – Jun 2024)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shivam-varshney-38221916b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:shivamvarshney1506@gmail.com"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" height="30" width="30" /></a>
-  <a href="https://github.com/shivamvarshneyy"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="30" /></a>
-</p>
+*Trainee*
+
+* Built & optimized **3 ML models**, improving processing time by **40%** and accuracy by **25%**.
+* Leveraged **DGX A100 Nvidia Server** for large-scale dataset processing.
 
 ---
 
-<!-- Footer Quote -->
-> *“Code is like humor. When you have to explain it, it’s bad.”*  
-> – Cory House
+## 📂 Projects
+
+### 📘 [Journal App](https://github.com/shivamvarshneyy/JournalApplication)
+
+*Java, Spring Boot, MongoDB, Redis, Spring Security, JWT, OAuth2.0*
+
+* Secure REST API with role-based authentication.
+* Integrated **Redis caching**, **scheduler services**, **mail notifications**, and **Swagger documentation**.
+* Environment-specific deployment using **Spring Profiles**.
+
+### ✅ [Advanced To-Do Web App](https://shivamvarshneyy.github.io/ToDo-List-updated/)
+
+*React.js, LocalStorage, Material UI*
+
+* Feature-rich to-do list with **add/edit/delete/mark complete**.
+* Persistent local storage and responsive design.
+
+### 🌦️ [Live Weather Web App](https://shivamvarshneyy.github.io/Weather_Forecast_App/)
+
+*React.js, OpenWeather API*
+
+* Real-time weather updates for any location.
+* Responsive UI with search functionality.
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Winner & Runner-Up in **4+ coding contests**.
+* 📈 Solved **550+ problems on LeetCode** (Max Rating: 1610).
+* ⚡ Solved **200+ problems on CodeChef** (Max Rating: 1733).
+* 💡 Participated in **8+ hackathons**.
+
+---
+
+## 📫 Connect with Me
+
+* 📧 [shivamvarshney1506@gmail.com](mailto:shivamvarshney1506@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/shivam-varshney-38221916b)
+* 🌐 [Portfolio](https://shivamvarshney.netlify.app/)
+* 🖥️ [GitHub](https://github.com/shivamvarshneyy)
+* 🏹 [LeetCode](https://leetcode.com/sdkv) | [CodeChef](https://www.codechef.com/users/the_dumbo)
+
+---
+
+⭐️ Feel free to check out my repositories and projects. Contributions, feedback, and collaboration opportunities are always welcome!
