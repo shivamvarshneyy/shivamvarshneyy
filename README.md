@@ -96,19 +96,6 @@
 
 ---
 
-<!-- Experience -->
-
-
----
-
-<!-- Achievements -->
-
-### 🏆 Achievements
-
-
-
----
-
 <!-- GitHub Stats -->
 
 ### 📊 GitHub Stats
