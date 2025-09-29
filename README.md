@@ -62,8 +62,8 @@
 
 ### 🎓 Education
 
-* **Bachelor of Technology in Computer Science (AI & ML)**
-  *GL Bajaj Institute Of Technology and Management, Greater Noida*.
+* **Bachelor of Technology in Computer Science (AI & ML)**<br>
+  *GL Bajaj Institute Of Technology and Management, Greater Noida*.<br>
   📅 Nov 2021 – Jul 2025 | 📊 CGPA: **8.4**
 
 ---
