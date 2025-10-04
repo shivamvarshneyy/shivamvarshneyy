@@ -73,7 +73,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamvarshneyy&theme=tokyonight" width="47%" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvarshneyy&layout=compact&theme=tokyonight" width="47%" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvarshneyy&layout=compact&theme=tokyonight" width="47%" height="178"/>
 </p>
 
 ---
