@@ -1,7 +1,14 @@
 <!-- Profile Header -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=39FF14&center=true&vCenter=true&width=940&lines=Hey,+Welcome!+I'm+Shivam+Varshney"
+    alt="Hey, Welcome! I'm Shivam Varshney animated typing"
+    width="100%"
+  />
+</p>
 
-<h1 align="center">Hi 👋, I'm Shivam Varshney</h1>
-<h3 align="center">🌐Full-Stack Developer | 💡Problem Solver | 📚Lifelong Learner</h3>
+
+<h3 align="center">🌐 Full-Stack Developer | 💡 Problem Solver | 📚 Lifelong Learner</h3>
 
 <!-- Profile Views -->
 
