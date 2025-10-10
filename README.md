@@ -11,7 +11,7 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=39FF14,00FFFF&center=true&vCenter=true&width=940&lines=%F0%9F%8C%90+Developer+%7C+%F0%9F%92%A1+Problem+Solver+%7C+%F0%9F%93%9A+Lifelong+Learner"
-    alt="Developer | Problem Solver | Lifelong Learner animated typing"
+    alt="Developer | Problem Solver | Lifelong Learner"
     width="100%"
   />
 </p>
