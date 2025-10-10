@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=39FF14&center=true&vCenter=true&width=940&lines=Hey,+Welcome!+I'm+Shivam+Varshney"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=39FF14,00FFFF&center=true&vCenter=true&width=940&lines=Hey,+Welcome!+I'm+Shivam+Varshney"
     alt="Hey, Welcome! I'm Shivam Varshney animated typing"
     width="100%"
   />
@@ -10,7 +10,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=000000&center=true&vCenter=true&width=940&lines=%F0%9F%8C%90+Full-Stack+Developer+%7C+%F0%9F%92%A1+Problem+Solver+%7C+%F0%9F%93%9A+Lifelong+Learner"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=39FF14,00FFFF&center=true&vCenter=true&width=940&lines=%F0%9F%8C%90+Full-Stack+Developer+%7C+%F0%9F%92%A1+Problem+Solver+%7C+%F0%9F%93%9A+Lifelong+Learner"
     alt="Full-Stack Developer | Problem Solver | Lifelong Learner animated typing"
     width="100%"
   />
