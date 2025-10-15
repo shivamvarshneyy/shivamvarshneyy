@@ -96,7 +96,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=shivamvarshneyy&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=shivamvarshneyy&theme=tokyonight" width="47%" height="47%" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvarshneyy&layout=compact&theme=tokyonight" width="50%" height="45%"/> -->
 </p>
 
